@@ -1,0 +1,572 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nativity of Mr. Will. Lilly astrologically performed shewing how he hath lived, and what death he may probably die. For the satisfaction of astrologers and others. Published to the world by James Blackwel, student in astrology and physick.</title>
+            <author>Blackwel, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76792</idno>
+            <idno type="STC">Wing B3091A</idno>
+            <idno type="STC">ESTC R223151</idno>
+            <idno type="EEBO-CITATION">99896517</idno>
+            <idno type="PROQUEST">99896517</idno>
+            <idno type="VID">133558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76792)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133558)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2419:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nativity of Mr. Will. Lilly astrologically performed shewing how he hath lived, and what death he may probably die. For the satisfaction of astrologers and others. Published to the world by James Blackwel, student in astrology and physick.</title>
+                  <author>Blackwel, James.</author>
+               </titleStmt>
+               <extent>15, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Johnson, at the White Cock in Rood-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilly, William, 1602-1681 --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Natal astrology --  Early works to 1800.</term>
+               <term>Astrologers --  England --  Biography --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133558:1"/>
+            <pb facs="tcp:133558:1"/>
+            <pb facs="tcp:133558:2"/>
+            <pb facs="tcp:133558:2"/>
+            <pb facs="tcp:133558:3"/>
+            <pb facs="tcp:133558:3"/>
+            <p>THE NATIVITY OF M<hi rend="sup">r.</hi> Will. Lilly</p>
+            <p>Aſtrologically performed; Shewing how he hath lived, and what Death he may probably die.</p>
+            <p>For the Satisfaction of Aſtrologers and others.</p>
+            <p>
+               <hi>Publiſhed to the world by</hi> James Blackwel, <hi>Student in Aſtrology and Phyſick.</hi>
+            </p>
+            <q>
+               <hi>Qui artemi aliquam deſtruit, longe deterior eſt imperito, nec vacat mens illim malitia, deſidia, &amp; ignorantia,</hi> 
+               <bibl>Cardan. <hi>Seg.</hi> 3. <hi>Aphor.</hi> 146.</bibl>
+            </q>
+            <q>He that deſtroys any Art, is far worſe than he that is unskil<g ref="char:EOLhyphen"/>ful; for his minde is empty neither of malice, deceit, or ignorance.</q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Tho. Johnſon,</hi> at the <hi>White Cock</hi> in <hi>Rood-lane.</hi> 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:133558:4"/>
+            <head>To the Honeſt Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Here preſent unto thy view, and friendly acceptance, the Nativity of <hi>Mr. William Lilly,</hi> he might I confeſs, have ſaved me the pains, (and for the honor of Aſtrology) publiſhed it himſelf. The Learned <hi>Cardan</hi> thought it not unbecoming an Artiſt to publiſh his own Nativity; but <hi>M<hi rend="sup">r</hi>. Lilly</hi> I perceive had much rather <hi>Phillipize</hi> than <hi>Cardonize, (i.e.)</hi> flatter, and play faſt and looſe with others, than deal plainly with himſelf. And I finding him ſo negligent and tardy in this, wherein he might have redeemed Aſtrologies honor, as much, as in clawing <hi>Dick Cromwel,</hi> and the <hi>Swediſh</hi> King, he for<g ref="char:EOLhyphen"/>feited it; have for ſatisfaction of the world, and promotion of Art, adventu<g ref="char:EOLhyphen"/>red upon this ſomewhat troubleſom Task, That for one mans ſcandalous deal<g ref="char:EOLhyphen"/>ing with, and notoriouſly abuſing of an honored Science, the Art it ſelf might not fall to the ground. Nay, I here averr, the <hi>Syderal Science</hi> cannot receive greater dignity and renown by any thing, than by the publication of this Na<g ref="char:EOLhyphen"/>tivity of <hi>Lilly's,</hi> who hath pretended himſelf, though falſly, the Stars chiefeſt Ambaſſador. Had not <hi>Lilly</hi> ſet Aſtrology upon the Tenters, and wrack'd and tortured it ſo cruelly as he hath done, to the obſcuring the Credit of the Stars, and thoſe that ſtudy them alſo, I ſhould not have been ſo poſitive with him, as in ſome things here publiſhed, I am; but if <hi>Mr. Lilly</hi> can ſo far forget his gratitude to them that have eminently honored him, I can forget my pity, and ſhall not eſteem it ſo much as a venial Tranſgreſſion, to retort his Ingratitude upon him, and publiſh what the Stars portend to him, although his gray hairs and great ſpirit may ſcorn a conjunction with the ſplendid Truth thereof.</p>
+            <closer>
+               <signed>J. B.</signed>
+               <dateline>
+                  <hi>From my Study</hi> White-chappel <hi>in</hi> Bell-yard, <hi>near the Church.</hi>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:133558:4"/>
+            <head>The NATIVITY of <hi>William Lilly</hi> Artificially handled.</head>
+            <p>
+               <hi>WILLIAM LILLY</hi> was born in <hi>Leiceſter-ſhire,</hi> at a place called <hi>Diſeworth,</hi> in the Year of our Lord 1602. <hi>April</hi> 30. 14 h. 8 m. <hi>P. M.</hi> or more vulgarly at 8 m. paſt 2 a clock on <hi>May-day</hi> in the morning. The Elevation of the Pole-Artick above the Horizon being there 25° 38′. Under which Elevation to the time given and corrected, I ſet the Figure of heaven by the operations following.</p>
+            <p>
+               <hi>The Planets places from the Rudolphine Tables, are thus:</hi>
+            </p>
+            <p>
+               <table>
+                  <head>Long Planets.</head>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>18</cell>
+                     <cell>28</cell>
+                     <cell>
+                        <hi>R.</hi>
+                     </cell>
+                     <cell>♏</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>13</cell>
+                     <cell>05</cell>
+                     <cell> </cell>
+                     <cell>♎</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>6</cell>
+                     <cell>32</cell>
+                     <cell> </cell>
+                     <cell>♍</cell>
+                  </row>
+                  <row>
+                     <cell>☉</cell>
+                     <cell>20</cell>
+                     <cell>05</cell>
+                     <cell> </cell>
+                     <cell>♉</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>19</cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                     <cell>♉</cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>05</cell>
+                     <cell>05</cell>
+                     <cell> </cell>
+                     <cell>♉</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>13</cell>
+                     <cell>47</cell>
+                     <cell> </cell>
+                     <cell>♑</cell>
+                  </row>
+                  <row>
+                     <cell>Ω</cell>
+                     <cell>14</cell>
+                     <cell>53</cell>
+                     <cell> </cell>
+                     <cell>♐</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>Latitude Planets.</head>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>2</cell>
+                     <cell>44</cell>
+                     <cell rows="3">North.</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>1</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>1</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>0</cell>
+                     <cell>40</cell>
+                     <cell rows="2">Sout</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>47</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>33</cell>
+                     <cell>North.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>The Right Aſc. ☉</cell>
+                     <cell>47</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>R. A. Time</cell>
+                     <cell>212</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>R. A. Med. Coel.</cell>
+                     <cell>259</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>Adde the quadrante</cell>
+                     <cell>90</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Obl. A. Horiſcope</cell>
+                     <cell>349</cell>
+                     <cell>37</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The figure it ſelf follows.</p>
+            <pb n="4" facs="tcp:133558:7"/>
+            <figure>
+               <head>
+                  <hi>William Lilly,</hi> born 1602. <hi>April</hi> 30. 14 h. 8 m. <hi>P. M.</hi> Sub Eleavatione Po<g ref="char:EOLhyphen"/>li, 52. 38. <g ref="char:Moon">☽</g> in <g ref="char:quadrine">□</g> ♃ ad ⚹ ♄.</head>
+               <figDesc>diagram</figDesc>
+            </figure>
+            <p>HOw this Nativity was corrected and proved to be the true Geniture of <hi>William Lilly,</hi> by theſe ſeveral Acci<g ref="char:EOLhyphen"/>dents following:</p>
+            <p n="1">1. He being aged 16 and 17 years, he lived poorly and in great want, his father ſo far decayed his eſtate, that he could not (by his own confeſsion) ſend him to <hi>Cambridge,</hi> he labored then under the Aſcendant to the oppoſition of ♃ with, and without latitude, and to the <g ref="char:quadrine">□</g> or <g ref="char:Moon">☽</g>, and the terms of ♂: <g ref="char:Moon">☽</g> then directed to the terms of ♄, and the <hi>part of Fortune</hi> to the ☌ of ♄ with latitude, and to the terms of ♄ alſo.</p>
+            <p n="2">2. Aged 18 years he came to <hi>London,</hi> and was put an Ap<g ref="char:EOLhyphen"/>prentice to <hi>Pawlin</hi> a Taylor, and the Sun was then directed to the <g ref="char:trine">△</g> of ♃, and the <hi>Medium Coeli</hi> to the <g ref="char:trine">△</g> of ♂: and <hi>Pars fortuna</hi> to the terms of ♃. And now <hi>William Lilly</hi> began to live indifferently well.</p>
+            <p n="3">3. Aged 25. he married with his Miſtriſs, the Mid-heaven was then directed to the ☌ of <g ref="char:Moon">☽</g> with and without latitude, and the Aſcendant was then directed to the ☌ of ☿, who was Lord
+<pb n="5" facs="tcp:133558:7"/> of the ſeventh in his Radix, and <hi>Pars fortuna</hi> to the terms of ♀.</p>
+            <p n="4">4. Being aged 30 years, he began to ſtudy Aſtrology, the Aſcendant was then directed to the ☌ of ☿ with latitude, and to the <g ref="char:trine">△</g> of <g ref="char:Moon">☽</g>, and the <hi>M. C.</hi> to the ⚹ of ♄: and <hi>Pars-fortuna</hi> was then directed to the ⚹ of ♃, the grand reaſon perhaps of its proving ſo gainful to him.</p>
+            <p n="5">5. Aged 31 years, his old wife died, and he got a 1000 l. thereby. Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <g ref="char:Moon">☽</g> was then directed to the <g ref="char:quadrine">□</g> of ♄ and <g ref="char:quadrine">□</g> of ♀: and <hi>pars-fortuna</hi> was under the ⚹ of ♃, and directed to Ω, a certain note of wealth, and increaſe of fortune.</p>
+            <p n="6">6. Being aged 32 he married again, the Mid-heaven was then directed to the <g ref="char:trine">△</g> of ♀, and to the <g ref="char:trine">△</g> of ☉ alſo; and <g ref="char:Moon">☽</g> was then directed to the terms of ♃, and <hi>pars fortuna</hi> to the Antiſcion of <g ref="char:Moon">☽</g>. He was then and the next year alſo ſick of a Hypocondriack Melancholly, the Aſcendant was then direct<g ref="char:EOLhyphen"/>ed to the ☍ of ♄, and to a ſtar of the nature of ♂: The <g ref="char:Moon">☽</g> was then directed to a <g ref="char:quadrine">□</g> of the ☉, and the Aſcendant to the ☌ of ☉, which aptly ſignified the ſame.</p>
+            <p n="7">7. Aged 34. he removed (at the pleaſure of his wife) into <hi>Surrey</hi> to live, the Aſcendant was then directed to the ☌ of ♀ with latitude.</p>
+            <p n="8">8. He being aged 38, a violent Feaver, the Aſcendant was then directed to the ☍ of ♄ with latitude, ♄ all that year in his Aſcendant, and ♂ at the Revolution in that year his grand Af<g ref="char:EOLhyphen"/>flicter.</p>
+            <p n="9">9. Aged 48 years, he had many contentions with his wife, and loſt 200 l. <hi>per annum</hi> by Mr. <hi>Froſt</hi>'s means, upon a quarrel had between him and <hi>Froſt;</hi> the <hi>Medium Coeli</hi> was then dire<g ref="char:EOLhyphen"/>cted to the <g ref="char:quadrine">□</g> of ☿ Lord of the ſeventh in the Radix, and a moſt unfortunate revolution that year.</p>
+            <p n="10">10. Being aged 50 years, he diſgraced himſelf about the Solar Ecclips in 1652. the Aſcendan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was then directed to ☋, and ☉ to the <g ref="char:quadrine">□</g> of ♃, which aptly portended the ſame.</p>
+            <p n="11">11. He being aged 56 and 57, he baſely befool'd himſelf and Aſtroloy, by flattering <hi>Oliver</hi> and <hi>Richard Cromwel,</hi> and the King of <hi>Sweden,</hi> yet he got a Gold Chain; the Aſcendant
+<pb n="6" facs="tcp:133558:5"/> to the terms of ♄ and fourth houſe, and ☉ was then directed to the ☍ of <g ref="char:Moon">☽</g> with latitude; but then to give him the Gold Chain he had the Mid-heaven to the <g ref="char:trine">△</g> of ♃</p>
+            <p n="12">12. Aged 52. he was endicted at Seſſions by <hi>Emme Spencer</hi> for a Cheat: ☉ was then directed to the ☍ of <g ref="char:Moon">☽</g> without lati<g ref="char:EOLhyphen"/>tude, and ſtill under the <g ref="char:quadrine">□</g> of ♃, and the Aſcendant was then directed to the Contrantiſcion of <g ref="char:Moon">☽</g>.</p>
+            <p n="13">13. He being aged 58 years, was impriſoned for pretending to know who cut the Kings head off, but being befriended, he quickly got off again: ♂ in <g ref="char:quadrine">□</g> to the Aſcendant of the Revo<g ref="char:EOLhyphen"/>lution, and his part of fortune there; but he being under ☉ to the ⚹ of ♀, he got his liberty in a fortnights time. Fortune ſeldom favors honeſt men at ſo eaſie and friendly a rate. Thus was this <hi>Nativity</hi> corrected.</p>
+            <div type="part">
+               <head>A general Judgement of this Nativity.</head>
+               <p>I Shall not be very tedious in the general Judgement of this Nativity, becauſe it would be very painful, and unprofit<g ref="char:EOLhyphen"/>able; and <hi>Lilly</hi> himſelf would never do any thing without a reward. However, for Aſtrologers honor I ſhall remark the moſt eminent and conſiderable things therein, and that in the form following.</p>
+               <p>Here we finde ♓ aſcending, which <hi>Lilly</hi> himſelf p. 99. of his <hi>Introduction,</hi> terms, <hi>A Sign double bodied, idle, effeminate, and ſickly, repreſenting a party of no action.</hi> Perhaps a main reaſon of his juggling, and his playing faſt and loſe with all he hath dealt with, and of being ſo lazy and ignorant in the Art be pretends to, that he ſeldom did any thing true therein, unleſs he had the aſſiſtance of other men, better acquainted with the Art than himſelf. But to ſhew that <hi>William Lilly</hi> was never like to make a good Artiſt, or be of any admirable conception, we finde that he hath <hi>Mercury</hi> in <hi>Taurus,</hi> a dull, heavy, earth<g ref="char:EOLhyphen"/>ly ſign, and <g ref="char:Moon">☽</g> diminiſhing in light in another earthly ſign. In his <hi>Introduction</hi> p. 584. he ſays, Luna <hi>diminiſhed in light,</hi> Mer<g ref="char:EOLhyphen"/>cury <hi>in</hi> Taurus, <hi>ſignifies the Native will prove a very Aſs or Wid<g ref="char:EOLhyphen"/>geon.</hi>
+                  <pb n="7" facs="tcp:133558:5"/> And I remember it is nearly from the ſame reaſons, that in his Epiſtle to his Almanack 1645. he confeſſeth <hi>his concep<g ref="char:EOLhyphen"/>tions dull, and his ſpeech and diſcourſe,</hi> (and he might have ſaid writings alſo) <hi>defective.</hi> But I cannot deviſe what Configu<g ref="char:EOLhyphen"/>ration ſhould make Mr. <hi>Lilly</hi> drop this truth! The <hi>Moon</hi> to the quartile of <hi>Mercury</hi> cannot I am confident, though <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> be Lord of the ninth. It is very probable, that ☿ in <g ref="char:trine">△</g> to ♂ might do it; for that ſometimes makes the verieſt Ideot in<g ref="char:EOLhyphen"/>genious. If yet a little further we enquire into this Natives manners, adhering ſtill to his own Book, (becauſe he ſhall have the leſs occaſion to be offended) we finde in p. 538. <hi>That when the ſignificator of Manners is in</hi> ♎, <hi>as</hi> ♃ <hi>is in this Nativity, it denotes one inconſtant, crafty, a contemner of all Arts, yet con<g ref="char:EOLhyphen"/>ceited of his own parts.</hi> But that I remember to have read this Aphoriſm in ſeveral other Authors, I ſhould have believed that <hi>Lilly</hi> had made it from the experience he had of his own inclination and temperature; For how exactly this hits him in every part, I leave all thoſe to judge that know him, by either his writings or actions. In <hi>p.</hi> 536. <hi>Lilly</hi> adviſeth us to judge of the Natives manners more particularly thus, <hi>If there be no Planet in the Aſcendant or joyn'd to the</hi> 
+                  <g ref="char:Moon">☽</g> 
+                  <hi>or</hi> ☿, <hi>or that the Lord of the Aſcendant be not aſpected of his Depoſiter, then have recourſe to that Planet that forcibly aſpects the</hi> 
+                  <g ref="char:Moon">☽</g> 
+                  <hi>and</hi> ☿ <hi>with a partil aſpect;</hi> which in this Nativity is ♂, and he ill dignified. And therefore by <hi>Lilly</hi>'s own rule, in p. 450. ſignifies a <hi>perſon cruel, quarrelſom, and tyrannical, raſh and head-ſtrong, bloody-minded, unſhamefac't, ſumptuous; a bragger, impious, a ſhedder of blood, impudent in provoking, but timerous when it comes to action, a thief, author of diſſentions, tumults, ſedition.</hi> And thus much of the man, and his manners and inclination.</p>
+               <p n="2">2. Of his Riches: <hi>Venus</hi> is Lady of the ſecond, and in page 543. he ſayes, <hi>That ſhe ſignifies Riches by friends and womens gifts.</hi> And that way indeed hath <hi>Lilly</hi> been ſomewhat enrich<g ref="char:EOLhyphen"/>ed. And in p. 561. <hi>When a benevolent Planet is ſignificator of Riches, and combust, the Native thrives by indirect and unlaw<g ref="char:EOLhyphen"/>ful means.</hi> And <hi>Venus</hi> Lady of the ſecond, being in exact op<g ref="char:EOLhyphen"/>poſition
+<pb n="8" facs="tcp:133558:6"/> of ♄, the means ſhould be the more indirect. All men (almoſt) know how <hi>Lilly</hi> hath got his eſtate; ſome by wives, but moſt by ſomewhat elſe, but what I will not ſay, let thoſe that have a deſire to know, ask the Swedes, and the Mem<g ref="char:EOLhyphen"/>bers of the Long-Parliament, <hi>Oliver Cromwel,</hi> and <hi>Richards</hi> friends, and they perhaps can inform them. If we enquire whether the eſtate ſhall continue, <hi>Lilly</hi> tells us in page 563. <hi>the</hi> Sun <hi>in the ſecond is ill, and it is very bad when <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Lord of the ſecond is combuſt, and the</hi> pars fortuna <hi>infortunate, it uſually portends confiſcation of eſtate, baniſhment, &amp;c.</hi> And he ſaith page 564. <hi>Caput Meduſae, with</hi> pars fortuna, <hi>or joyned to his Lord, expreſſes loſs of Riches, and threatens poverty;</hi> which poſitions exactly happen in this Nativity, and ſomething elſe to aggra<g ref="char:EOLhyphen"/>vate them, <hi>viz. Saturn</hi> being in exact oppoſition to <hi>Sol</hi> and <hi>Venus;</hi> but I hear <hi>Lilly</hi> hath made over his eſtate already, in hopes to prevent theſe evils that his Nativity unhappily threa<g ref="char:EOLhyphen"/>tens.</p>
+               <p n="3">3. He ſaith page 567. <hi>the</hi> ☋ <hi>in the third, portends little a<g ref="char:EOLhyphen"/>greement between the Native and his brethren, or kindred;</hi> And this is true enough in his Nativity, for although he hath a poor Brother in the Countrey, and a poor Siſter a Waſher-woman, in <hi>Milford-lane,</hi> he ſeldom gives them a penny; and beſides hath paſſed away his eſtate to ſtrangers.</p>
+               <p n="4">4. If we enquire whether this honor ſhall continue, himſelf ſaith, page 623. <hi>the Hyades, Hercules cor, Scorpio, Lanx Au<g ref="char:EOLhyphen"/>ſtralis, in Angles, in</hi> 
+                  <g ref="char:quadrine">□</g> 
+                  <hi>or</hi> ☍ <hi>of the infortunes; whom they raiſe from the dunghil they at laſt caſt down with a vengeance.</hi> In this Nativity, although theſe Stars are not in Angles, yet <hi>Mars</hi> caſts a quartile to two of the eminenteſt of them, from an An<g ref="char:EOLhyphen"/>gle; which is every whit as forcible, as if they had been in Angles. If two and four make ſix, then four and two makes the ſame number. Thus you ſee the demonſtration is familiar and eaſie.</p>
+               <p n="5">5. If we make enquiry after the Natives impriſonment or reſtraint, it is apparent he muſt ſuffer by ſuch means: For in page 642. he ſaith, <hi>If</hi> ♄ <hi>afflict</hi> ☉ <hi>or</hi> 
+                  <g ref="char:Moon">☽</g> 
+                  <hi>with partil or platick
+<pb n="9" facs="tcp:133558:6"/> Aſpect, it denotes impriſonment to the Native.</hi> Here you ſee <hi>Sol</hi> is moſt exactly oppoſed by <hi>Saturn,</hi> and he Lord of the twelfth, and Retrograde in the eighth houſe. I hope better for him, than that he die in a priſon: but that I have made a promiſe to quote no Authority herein, but <hi>Lillyes</hi> own, I could produce divers that relate ſuch a poſition to be moſt cruel and ominous.</p>
+               <p n="6">6. Having treated of the moſt material paſſages of Life, we come now to treat of Death; And ſhall queſtion firſt, whether it may be natural, or violent? In page 644. <hi>Lilly</hi> ſaith, <hi>If ei<g ref="char:EOLhyphen"/>ther the Sun or Moon be in violent ſigns, and the other Light with a violent fixed ſtar, it denotes a violent Death, chiefly if any of the infortunes inveſt either Sun or Moon, or Lord of the eighth.</hi> This Aphoriſm takes full place in this Nativity, for the <hi>Moon</hi> is in <hi>Capricorn,</hi> and the <hi>Sun</hi> with <hi>Oculus Taurus,</hi> in op<g ref="char:EOLhyphen"/>poſition of <hi>Saturn;</hi> Ergo, it ſtands the Native upon, to be<g ref="char:EOLhyphen"/>ware of a violent end. In page 645. he ſaith, <hi>A malevolent in the eighth, and either of the Lights afflicted, or in a violent ſign, portends violent death.</hi> He ſaith alſo, <hi>The Lord of the firſt in a violent ſign, and the depoſiter of the Light of the time in a violent ſign, or afflicted, intends violent death.</hi> ♃ Lord of the firſt, is in ♎, a ſign violent, and ♄ diſpoſer of the <g ref="char:Moon">☽</g> is in ♏, a ſign violent; <hi>Ergo,</hi> the dint of the Aphoriſm is to be feared. The kinde or quality of death is known from <hi>Saturn,</hi> becauſe he is in the eighth, thence afflicting the Sun, the Fountain of Life. And the kinde of death that <hi>Saturn</hi> in this caſe ſignifies, Mr. <hi>Lilly</hi> ſaith, page 646. <hi>is by drowning, ſhipwrack, ruine of old buildings, poiſon.</hi> And <hi>Saturn</hi> being in <hi>Scorpio</hi> a poiſonous ſign, 'tis the more likely to be by poiſon. In pag. 647. he ſaith, <hi>Saturn in oppoſition of the Sun from fixed ſigns, many times de<g ref="char:EOLhyphen"/>notes ſtoning to death, or ſuffocation by fire, or water, ſometimes beheading, (that is if the perſon be honorable) death by a Gun, or great inſtrument, or hanging, or ſtrangling,</hi> &amp;c. But of all, I ſuppoſe the former, <hi>viz.</hi> poiſon, becauſe it is ſo natural to <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi> and to the ſign he is in. And perhaps it may ſo fall out, that the native coming into danger to prevent a publick ſhame, may turn his own Executioner, and poiſon himſelf, But in this
+<pb n="10" facs="tcp:133558:8"/> matter I leave Mr. <hi>Lilly</hi> to do what he will, I will promiſe him before-hand it ſhall never trouble me. And this ſhall ſerve for a general Judgement upon the Scheme of his Nativity.</p>
+               <p>I ſhall ſet the Figure of his next years Revolution, it being moſt probable to prove a prodigious year unto him, and the moſt remarkable that ever he had, yea far more notable than that in which he received a gold Chain from the King of <hi>Swe<g ref="char:EOLhyphen"/>den</hi> And I ſhall give a particular Judgement upon the ſame, with conſidering the directions and other things that con-comi<g ref="char:EOLhyphen"/>tate it, and ſo end my intended Task, and leave Mr. <hi>Lilly</hi> to ſhift for himſelf, and baffle if he can, his bad fate, as he hath done all he ever had to deal with.</p>
+            </div>
+            <div type="part">
+               <head>Of his Revolution for the Year <hi>1661.</hi> being the <hi>59th</hi> year of his Age.</head>
+               <p>To finde the true Revolutional Figure, I equate for the Suns true place, thus:</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell rows="2">
+                           <hi>April</hi>
+                        </cell>
+                        <cell>29</cell>
+                        <cell rows="2">the Sun is</cell>
+                        <cell>19 <hi>d.</hi>
+                        </cell>
+                        <cell>14 <hi>m.</hi>
+                        </cell>
+                        <cell>41 <hi>ſ</hi>
+                        </cell>
+                        <cell rows="2">
+                           <hi>Taurus</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>30</cell>
+                        <cell>20</cell>
+                        <cell>12</cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Difference</cell>
+                        <cell>00</cell>
+                        <cell>57</cell>
+                        <cell>43</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>The Suns place is</cell>
+                        <cell>20</cell>
+                        <cell>05</cell>
+                        <cell>00 <hi>Taurus.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Next greater is</cell>
+                        <cell>20</cell>
+                        <cell>12</cell>
+                        <cell>24 <hi>Taurus.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Difference</cell>
+                        <cell>00</cell>
+                        <cell>07</cell>
+                        <cell>24</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Then I work b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Rule of proportion, and ſay, if 57′ 53″ give 24 h. what ſhall 7′ 24′ give? Anſwer 3 h. 4 m. which ſub<g ref="char:EOLhyphen"/>ſtracted from Noon the 30 of <hi>April,</hi> leaves the true time of the Revolution ſought, <hi>April</hi> the 29 da<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, at 20 h. 50 m <hi>P. M.</hi> Aſtronomically, or more vulgarly, <hi>April</hi> the 30 at 56 mi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es paſt eight a Clock in the morning; for then the Sun comes to his Radical place, <hi>viz</hi> 20°. 5′ in <hi>Taurus.</hi>
+               </p>
+               <p>The Figure of Heaven, is as followeth.</p>
+               <pb n="11" facs="tcp:133558:8"/>
+               <p>
+                  <hi>The Planets places are as followeth.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" cols="5">
+                           <hi>Long Planets.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>♄</cell>
+                        <cell>20</cell>
+                        <cell>43</cell>
+                        <cell>
+                           <hi>R.</hi>
+                        </cell>
+                        <cell>♏</cell>
+                     </row>
+                     <row>
+                        <cell>♃</cell>
+                        <cell>4</cell>
+                        <cell>31</cell>
+                        <cell>
+                           <hi>R.</hi>
+                        </cell>
+                        <cell>♎</cell>
+                     </row>
+                     <row>
+                        <cell>♂</cell>
+                        <cell>6</cell>
+                        <cell>13</cell>
+                        <cell> </cell>
+                        <cell>♈</cell>
+                     </row>
+                     <row>
+                        <cell>☉</cell>
+                        <cell>20</cell>
+                        <cell>05</cell>
+                        <cell> </cell>
+                        <cell>♉</cell>
+                     </row>
+                     <row>
+                        <cell>♀</cell>
+                        <cell>05</cell>
+                        <cell>03</cell>
+                        <cell> </cell>
+                        <cell>♉</cell>
+                     </row>
+                     <row>
+                        <cell>☿</cell>
+                        <cell>09</cell>
+                        <cell>46</cell>
+                        <cell>R.</cell>
+                        <cell>♉</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <g ref="char:Moon">☽</g>
+                        </cell>
+                        <cell>04</cell>
+                        <cell>47</cell>
+                        <cell> </cell>
+                        <cell>♎</cell>
+                     </row>
+                     <row>
+                        <cell>Ω</cell>
+                        <cell>14</cell>
+                        <cell>40</cell>
+                        <cell>R.</cell>
+                        <cell>♎</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>The right Aſc. ☉</cell>
+                        <cell>47</cell>
+                        <cell>37</cell>
+                     </row>
+                     <row>
+                        <cell>Right A. Time</cell>
+                        <cell>313</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>Added, makes</cell>
+                        <cell>361</cell>
+                        <cell>07</cell>
+                     </row>
+                     <row>
+                        <cell>The Circle ſub.</cell>
+                        <cell>360</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Right Aſc. M. C.</cell>
+                        <cell>001</cell>
+                        <cell>07</cell>
+                     </row>
+                     <row>
+                        <cell>Add the quadrant</cell>
+                        <cell>090</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Ob. A. Horoſcope</cell>
+                        <cell>91</cell>
+                        <cell>07</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The Figure it ſelf follows.</p>
+               <figure>
+                  <head>
+                     <hi>April</hi> 30. 1661. 20 h. 56 m. <hi>P. M.</hi> Revolution for the 59th year current. <g ref="char:Moon">☽</g> ad ☍ ♂.</head>
+                  <figDesc>diagram</figDesc>
+               </figure>
+            </div>
+            <div type="part">
+               <head>A general Judgement of this Revolution.</head>
+               <p>IN this Revolution the ſign of the ſixth houſe of the Radix aſcends, and the <hi>Moon</hi> Lady thereof, is in exact oppoſition of ♂ Lord of the eighth in the Radix. To the firſt, Mr <hi>Lilly</hi> ſaith, page 727. <hi>If the ſign of the ſixth aſcends, in that year the
+<pb n="12" facs="tcp:133558:9"/> Native may fear ſickneſſes, imbecility of body, or other very ma<g ref="char:EOLhyphen"/>ny caſualties</hi> &amp;c. but to the latter he ſays nothing. Howbeit, other Authors ſay, it is many times fatal to Life, and truly it is the more to be feared, becauſe oppoſition happens from An<g ref="char:EOLhyphen"/>gles, and <hi>Saturn</hi> in the return ſo near the oppoſition of the <hi>Sun,</hi> (who is <hi>Lux temporis</hi>) and exactly returned to his Radical place, and the Lord of the eighth wholly, in the Revolution. If <hi>Saturn</hi> be naturally an enemy to Life, and accidentally Ana<g ref="char:EOLhyphen"/>reta or Lord of Death, then muſt his influence be the more ma<g ref="char:EOLhyphen"/>lignant and cruel. <hi>Sed verum prius, Ergo,</hi> &amp;c. the 59th year of his age, (a year more dangerous by reaſon of Saturns double re<g ref="char:EOLhyphen"/>turn, than either 42. or 63.) we may upon better grounds than himſelf predicted Prince <hi>Roberts</hi> death, pronounce this year moſt fatal to him; And ſeriouſly <hi>Lilly</hi> ought to thank me for my plain dealing with him, if he ſhall but conſider what a mu<g ref="char:EOLhyphen"/>ſter of cruel and ominous Directions are coming towards him; for they are ſuch as his own Book (whom all along you may ſee I have made his Judge, and fairer play he cannot deſire to have of any man) terms fatal, as you ſhall largely hear from thence—</p>
+               <p n="1">1. He hath the Sun to the ſixth houſe, whoſe Ark of dire<g ref="char:EOLhyphen"/>ction is 59°. 18. which direction he ſaith, page 668. ſignifies <hi>to the Native himſelf ſickneſs,</hi> &amp;c.</p>
+               <p n="2">2. He hath the Aſcendant to the terms of <hi>Mars,</hi> whoſe Ark of direction is 60° 23′. And in page 660. he ſaith, <hi>It inclines the temperature of the Native to choller, and incites him to raſh actions, and to have a hand in many idle and wicked matters, all tending to a general diſtemper of the body, ſubiect to ſcandal, and not undeſervedly.</hi>
+               </p>
+               <p n="3">3. He hath the <hi>Medium Coeli</hi> directed to the quartile of Sa<g ref="char:EOLhyphen"/>turn, whoſe Ark of direction is 61° 14′. And <hi>Lilly</hi> ſaith p. 669. <hi>This direction diſcovers many laborious, difficult and unfortunate miſchances unto the Native, deprives him of his Honor, Office, Magiſtracy, Employment, or Reputation, by means of Saturnine and vulgar perſons, or of ſly diſſembling Courtiers, Countrey-clowns, Husbandmen, Colliers, Day laborers, who ſeem all to conſpire and agree herein againſt him. And as this portends to
+<pb n="13" facs="tcp:133558:9"/> vulgar perſons, beggery, poverty, diſgrace; ſo unto people, diſ<g ref="char:EOLhyphen"/>credit,</hi> (ſurely he eſteems vulgar perſons not worth the terming people) <hi>accuſations, and treacherous informations, dammage by thefts.</hi> Theſe are Mr. <hi>Lillies</hi> own words.</p>
+               <p n="4">4. He hath the <hi>Medium Coeli</hi> to the quartile of <hi>Venus</hi> by di<g ref="char:EOLhyphen"/>rection, which Ark of direction is 62°. 6′. And he ſaith, page 673. <hi>This direction is ever full of ſcandal and ignominy, and de<g ref="char:EOLhyphen"/>tracts from the Natives fame and honor, by means of women, and ſtirs up ſtrife, hatred, and contentions againſt him; the Native ſubject to be deluded by women, to wooe many, and to be rejected by moſt, or all women, they putting tricks upon the Native, ſcor<g ref="char:EOLhyphen"/>ning and deriding him, who will be jealous of his Miſtriſs upon every ſleight occaſion: It ſhews death many times to the mother or wife, and an unquiet and uncheerful life — with his wife, ma<g ref="char:EOLhyphen"/>ny times divorce, jealouſies, and great diſcontents, ſale, or loſs of much eſtate, or many coſtly Jewels.</hi> Now beware the Gold Chain!</p>
+               <p n="5">5. He hath <hi>Pars fortuna</hi> directed to the quartile of <hi>Jupiter,</hi> whoſe Ark of direction is 61°. 42. He ſaith, page 704. <hi>Such a direction ſignifies— Loſs of wealth by means of Gentlemen, or Law-ſuits, and vexations by ſuch, and againſt ſuch, much labor and difficulty to procure the preſervation of his eſtate, loſs of Of<g ref="char:EOLhyphen"/>fice, or leſs increaſe thereby than formerly.</hi>
+               </p>
+               <p n="6">6. He hath the <hi>Medium Coeli</hi> alſo directed to the quartile of <hi>Sol,</hi> whoſe Ark of direction is 62°. 54′. And he ſaith, page6 672. <hi>That it renders the Native obvious to many diſcommodities, makes him odious to great men, to looſe his offices, honor, or pre<g ref="char:EOLhyphen"/>ferments upon a ſudden, and changes and perverts all his former good fortunes, a Trades man cracks his credit, or turns Bank<g ref="char:EOLhyphen"/>rupt,</hi> &amp;c. <hi>For now he is in danger of being impriſoned, baniſhed, and many times</hi> (if the Nativity threaten, a here it doth) <hi>he is ſentenced to death by the judgement of his Prince, or ſome of his Officers.</hi>
+               </p>
+               <p>Theſe are the dire directions that are coming toward Mr. <hi>Lilly</hi> apace; ſome of which have partly ſeized on him already; and let Mr. <hi>Lilly</hi> tell me whether I have not dealt like a faith<g ref="char:EOLhyphen"/>ful
+<pb n="14" facs="tcp:133558:10"/> friend by him, and as truly as <hi>Damboyſe,</hi> and the Kings Bro<g ref="char:EOLhyphen"/>ther did by each other in the Tragedy Here are no Sycophan<g ref="char:EOLhyphen"/>tique tow'ring ſtrains, nor have we flattered <hi>Lilly</hi> in hopes of reward, as he hath done many to their ruine; Nor have we uſed any ſtick Heraldy, no clawing Epithetes, nor charms to cheat his underſtanding; we have not conſulted Mother <hi>Ship<g ref="char:EOLhyphen"/>ton,</hi> the <hi>Sybills,</hi> or that crack-braind fellow <hi>Merlyn,</hi> &amp;c. nor <hi>Dic mie,</hi> nor any ſuch like cheats and knaveries; we have kept cloſe to Aſtrology, and becauſe we would not be adjudged partial, in that, to <hi>Lillies</hi> own book; a civility, that young <hi>Merlyn</hi> never merited from any Artiſt in the world.</p>
+               <p>But perhaps <hi>Lilly</hi> will ſay, when he ſees this, that ſome of theſe directions come not yet a while, according to the meaſure of time allowed in a direction, I ſhall eaſily concede thereun<g ref="char:EOLhyphen"/>to they do not; two of them eſpecially. But nevertheleſs if <hi>Lilly</hi> remembers what Sir <hi>Chriſtopher Heydon</hi> ſays, Fol. 412. <hi>That events proper to men, may be both anticipated and continu<g ref="char:EOLhyphen"/>ed before or beyond a direction, as other things ſhall occurre;</hi> the objection is cleerly invalidated, and <hi>Lillies</hi> dancing days neerer unto an end, then he is aware of.</p>
+               <p>Let <hi>Lilly</hi> or the beſt Aſtrologer of his acquaintance, tell me what they think of <hi>July</hi> 1661. when ♄ is ſtationary upon the oppoſite place of the ☉, and ſuddenly after meeting with the ☉ by a quartile? And of ♂ his being ſtationary to Retrogradation upon the degree Aſcending in the Revolution, in <hi>November</hi> following, a place that <hi>Mars</hi> ſo miſcheivouſly hate; And pre<g ref="char:EOLhyphen"/>ſently meeting an oppoſition of <hi>Venus, (Lillies</hi> beſt friend) and this in ♑ neer the twelfth Houſe of the Radix? Nor will the four Eclipſes in that year, in the Angles of his Revolution ſpeak better things unto him, that in <hi>September</hi> of the ☉ eſpecially; it happening ſo directly upon the place of the <g ref="char:Moon">☽</g> in the Revolu<g ref="char:EOLhyphen"/>tion—</p>
+               <p>If Mr <hi>Lilly</hi> be unſatisfied in any thing herein written, let him publiſh his doubts, and I hereby promiſe him <hi>In verba Aſtrologi,</hi> in the word of an Artiſt, to dilucidate any thing to him that is therein contained. Or if he ſhall he captious or
+<pb n="15" facs="tcp:133558:10"/> quarrelſom (which is ſomewhat probable he may) at me, for my ſerious pains in his Nativity taken, I ſhall then call back my civil offer, and will undertake to juſtifie what is here perform<g ref="char:EOLhyphen"/>ed, either by diſpute, or which way that he ſhall think proper for to ingage, provided it may be for the honor of Aſtrology, unto which end alone I have publiſhed his Geniture.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:133558:11"/>
+            <pb facs="tcp:133558:12"/>
+            <pb facs="tcp:133558:12" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
